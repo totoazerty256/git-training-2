@@ -1,5 +1,5 @@
 Ceci est un text qui contient des fautes
 
-Participants: Morgan Guimard,  Omar SLIMANI
+Participants: Morgan Guimard, Carine Nivelet, Cedric Dorocant, Remi Arbousset, Adrien Duyck, P. Sarcher,  Omar SLIMANI
 
-Ceci est du texte rajouté peut etre avec des faute, va savoire ....
+Ceci est du texte rajoutÃ© peut etre avec des faute, va savoire ....
